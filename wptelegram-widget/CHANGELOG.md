@@ -1,5 +1,17 @@
 # Changelog
 
+## 2.1.30
+
+### Patch Changes
+
+- [#165](https://github.com/wpsocio/wp-projects/pull/165) [`314648d`](https://github.com/wpsocio/wp-projects/commit/314648dc5d9cdfad2f532f70733addb2ec5f8245) Thanks [@irshadahmad21](https://github.com/irshadahmad21)! - Fixed load_plugin_textdomain warning in dependent package
+
+## 2.1.29
+
+### Patch Changes
+
+- [#163](https://github.com/wpsocio/wp-projects/pull/163) [`75bab6b`](https://github.com/wpsocio/wp-projects/commit/75bab6b20f0cc0eccc07750d4e50bcd0b65e486d) Thanks [@irshadahmad21](https://github.com/irshadahmad21)! - Fixed load_plugin_textdomain warning
+
 ## 2.1.28
 
 ### Patch Changes

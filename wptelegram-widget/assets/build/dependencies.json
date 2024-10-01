@@ -8,8 +8,8 @@
     "wp-compose",
     "wp-url",
     "react",
-    "jquery",
     "wp-api-fetch",
+    "jquery",
     "react-dom"
   ],
   "js/public/index.ts": [

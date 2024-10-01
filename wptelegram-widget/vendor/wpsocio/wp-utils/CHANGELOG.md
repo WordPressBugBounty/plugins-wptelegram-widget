@@ -1,5 +1,17 @@
 # Changelog
 
+## 1.0.5
+
+### Patch Changes
+
+- [#165](https://github.com/wpsocio/wp-projects/pull/165) [`314648d`](https://github.com/wpsocio/wp-projects/commit/314648dc5d9cdfad2f532f70733addb2ec5f8245) Thanks [@irshadahmad21](https://github.com/irshadahmad21)! - Fixed load_plugin_textdomain warning
+
+## 1.0.4
+
+### Patch Changes
+
+- [#158](https://github.com/wpsocio/wp-projects/pull/158) [`a825c39`](https://github.com/wpsocio/wp-projects/commit/a825c3909e2f990bd7932e10b8db665fa3e083e0) Thanks [@irshadahmad21](https://github.com/irshadahmad21)! - Fixed get attachment by filesize to return original image if within limits
+
 ## 1.0.3
 
 ### Patch Changes
