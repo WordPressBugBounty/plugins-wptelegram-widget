@@ -10,19 +10,19 @@ $generated_i18n_strings = array(
 	// Reference: ../../packages/js/services/api-fetch/index.ts:41
 	__( 'Error:', 'wptelegram-widget' ),
 
-	// Reference: ../../packages/js/services/telegram/telegram-utils.ts:126
+	// Reference: ../../packages/js/services/telegram/telegram-utils.ts:122
 	__( 'A message will be sent to the Channel/Group/Chat. You can modify the text below', 'wptelegram-widget' ),
 
-	// Reference: ../../packages/js/services/telegram/telegram-utils.ts:129
+	// Reference: ../../packages/js/services/telegram/telegram-utils.ts:125
 	__( 'This is a test message', 'wptelegram-widget' ),
 
-	// Reference: ../../packages/js/services/telegram/telegram-utils.ts:133
+	// Reference: ../../packages/js/services/telegram/telegram-utils.ts:129
 	__( 'Message is empty', 'wptelegram-widget' ),
 
-	// Reference: ../../packages/js/services/telegram/telegram-utils.ts:152
+	// Reference: ../../packages/js/services/telegram/telegram-utils.ts:148
 	__( 'Success', 'wptelegram-widget' ),
 
-	// Reference: ../../packages/js/services/use-display-feedback.ts:61
+	// Reference: ../../packages/js/services/use-display-feedback.ts:60
 	__( 'Lets fix these errors first.', 'wptelegram-widget' ),
 
 	// Reference: ../../packages/js/services/use-submit-form.ts:64
@@ -35,10 +35,10 @@ $generated_i18n_strings = array(
 	/* translators: %s: plugin name */
 	__( 'Do you like %s?', 'wptelegram-widget' ),
 
-	// Reference: ../../packages/js/shared-ui/components/plugin-info/plugin-info-card.tsx:71
+	// Reference: ../../packages/js/shared-ui/components/plugin-info/plugin-info-card.tsx:69
 	__( 'Write a review', 'wptelegram-widget' ),
 
-	// Reference: ../../packages/js/shared-ui/components/plugin-info/plugin-info-card.tsx:87
+	// Reference: ../../packages/js/shared-ui/components/plugin-info/plugin-info-card.tsx:85
 	__( 'Need help?', 'wptelegram-widget' ),
 
 	// Reference: ../../packages/js/shared-ui/components/widget-info/widget-info-card.tsx:24
@@ -172,10 +172,10 @@ $generated_i18n_strings = array(
 	// Reference: js/blocks/single-post/Controls.tsx:50
 	__( 'Edit URL', 'wptelegram-widget' ),
 
-	// Reference: js/blocks/single-post/Edit.tsx:131
+	// Reference: js/blocks/single-post/Edit.tsx:133
 	__( 'Loading…', 'wptelegram-widget' ),
 
-	// Reference: js/blocks/single-post/Edit.tsx:148
+	// Reference: js/blocks/single-post/Edit.tsx:150
 	// Reference: js/blocks/single-post/index.tsx:47
 	__( 'Telegram post', 'wptelegram-widget' ),
 
@@ -275,51 +275,51 @@ $generated_i18n_strings = array(
 	// Reference: js/settings/ui/joinLink/PostTypes.tsx:11
 	__( 'The join link will be automatically added to the selected post types.', 'wptelegram-widget' ),
 
-	// Reference: js/settings/ui/legacyWidget/Instructions.tsx:101
-	__( 'Tip!', 'wptelegram-widget' ),
+	// Reference: js/settings/ui/legacyWidget/Instructions.tsx:103
+	__( 'Choose your bot.', 'wptelegram-widget' ),
 
-	// Reference: js/settings/ui/legacyWidget/Instructions.tsx:106
-	__( 'Updates are pulled every five minutes if someone visits your website.', 'wptelegram-widget' ),
+	// Reference: js/settings/ui/legacyWidget/Instructions.tsx:104
+	__( 'Select "Disable".', 'wptelegram-widget' ),
 
 	// Reference: js/settings/ui/legacyWidget/Instructions.tsx:112
+	__( 'Tip!', 'wptelegram-widget' ),
+
+	// Reference: js/settings/ui/legacyWidget/Instructions.tsx:117
+	__( 'Updates are pulled every five minutes if someone visits your website.', 'wptelegram-widget' ),
+
+	// Reference: js/settings/ui/legacyWidget/Instructions.tsx:123
 	__( 'To make sure the updates are pulled in time, it is recommended to set up a cron on your hosting server that hits the below URL every five minutes or so.', 'wptelegram-widget' ),
 
-	// Reference: js/settings/ui/legacyWidget/Instructions.tsx:19
+	// Reference: js/settings/ui/legacyWidget/Instructions.tsx:29
 	/* translators: 1 command name, 2 bot name */
 	__( 'Create a Bot by sending %1$s command to %2$s.', 'wptelegram-widget' ),
 
-	// Reference: js/settings/ui/legacyWidget/Instructions.tsx:40
+	// Reference: js/settings/ui/legacyWidget/Instructions.tsx:50
 	/* translators: %s bot name */
 	__( 'After completing the steps %s will provide you the Bot Token.', 'wptelegram-widget' ),
 
-	// Reference: js/settings/ui/legacyWidget/Instructions.tsx:48
+	// Reference: js/settings/ui/legacyWidget/Instructions.tsx:58
 	__( 'Copy the token and paste into the Bot Token field below.', 'wptelegram-widget' ),
 
-	// Reference: js/settings/ui/legacyWidget/Instructions.tsx:52
+	// Reference: js/settings/ui/legacyWidget/Instructions.tsx:62
 	/* translators: %s application name */
 	__( 'For ease, use %s', 'wptelegram-widget' ),
 
-	// Reference: js/settings/ui/legacyWidget/Instructions.tsx:58
+	// Reference: js/settings/ui/legacyWidget/Instructions.tsx:68
 	__( 'Telegram Desktop', 'wptelegram-widget' ),
 
-	// Reference: js/settings/ui/legacyWidget/Instructions.tsx:64
+	// Reference: js/settings/ui/legacyWidget/Instructions.tsx:74
 	__( 'Add the Bot as Administrator to your Channel/Group.', 'wptelegram-widget' ),
 
-	// Reference: js/settings/ui/legacyWidget/Instructions.tsx:65
+	// Reference: js/settings/ui/legacyWidget/Instructions.tsx:75
 	__( 'Send a test message to see if we did it right.', 'wptelegram-widget' ),
 
-	// Reference: js/settings/ui/legacyWidget/Instructions.tsx:68
+	// Reference: js/settings/ui/legacyWidget/Instructions.tsx:78
 	__( 'For groups, disable group privacy for the bot.', 'wptelegram-widget' ),
 
-	// Reference: js/settings/ui/legacyWidget/Instructions.tsx:75
+	// Reference: js/settings/ui/legacyWidget/Instructions.tsx:85
 	/* translators: 1 command name, 2 bot name, 3 site url */
 	__( 'Send %1$s command to %2$s.', 'wptelegram-widget' ),
-
-	// Reference: js/settings/ui/legacyWidget/Instructions.tsx:93
-	__( 'Choose your bot.', 'wptelegram-widget' ),
-
-	// Reference: js/settings/ui/legacyWidget/Instructions.tsx:94
-	__( 'Select "Disable".', 'wptelegram-widget' ),
 
 	// Reference: js/settings/ui/legacyWidget/LegacyWidget.tsx:16
 	__( 'Auto', 'wptelegram-widget' ),
@@ -345,7 +345,7 @@ $generated_i18n_strings = array(
 	// Reference: js/settings/ui/legacyWidget/OldMessagesInfo.tsx:8
 	__( 'Legacy Widget does not show the old messages.', 'wptelegram-widget' ),
 
-	// Reference: js/settings/ui/legacyWidget/Username.tsx:38
+	// Reference: js/settings/ui/legacyWidget/Username.tsx:37
 	__( 'Channel or group username.', 'wptelegram-widget' )
 );
 /* THIS IS THE END OF THE GENERATED FILE */

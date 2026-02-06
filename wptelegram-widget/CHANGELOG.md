@@ -1,5 +1,23 @@
 # Changelog
 
+## 2.2.14
+
+### Patch Changes
+
+- [#303](https://github.com/wpsocio/wp-projects/pull/303) [`1846500`](https://github.com/wpsocio/wp-projects/commit/184650060a80b10bec80fa7468e7fd2918da0689) Thanks [@irshadahmad21](https://github.com/irshadahmad21)! - Fix username regex escaping.
+
+## 2.2.13
+
+### Patch Changes
+
+- [#302](https://github.com/wpsocio/wp-projects/pull/302) [`c14841a`](https://github.com/wpsocio/wp-projects/commit/c14841ab59cb551178abb50102198899767c0b30) Thanks [@irshadahmad21](https://github.com/irshadahmad21)! - Update the pull updates URL to add a hash to avoid hitting Telegram API rate limit.
+
+## 2.2.12
+
+### Patch Changes
+
+- [#298](https://github.com/wpsocio/wp-projects/pull/298) [`5490279`](https://github.com/wpsocio/wp-projects/commit/549027918a6585dded8e40dc46c23a2948bca88c) Thanks [@irshadahmad21](https://github.com/irshadahmad21)! - Drop support for PHP 7.x, making PHP 8 the minimum required version.
+
 ## 2.2.11
 
 ### Patch Changes
