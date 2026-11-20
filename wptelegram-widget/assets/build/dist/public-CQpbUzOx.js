@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-CbXtAM7H.js";import{t}from"./jquery-BHLndRnx.js";var n=e(t(),1);(0,n.default)(()=>{let e=(0,n.default)(`.wptelegram-widget-message iframe`);e.on(`resize_iframe`,function(){let e=(0,n.default)(this),t=e.contents().find(`body`).height();t&&e.height((t+2).toString())}),e.on(`load`,function(){let e=(0,n.default)(this);e.contents().find(`body`).is(`:empty`)?e.parent().remove():e.trigger(`resize_iframe`)}),(0,n.default)(window).on(`resize`,()=>{e.trigger(`resize_iframe`)})});
+//# sourceMappingURL=public-CQpbUzOx.js.map
